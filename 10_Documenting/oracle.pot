@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-22 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:7
+msgid ""
+"Program for guessing number in arabic or roman notation\n"
+"\n"
+"Usage: oracle [OPTIONS]\n"
+"\n"
+"\t--help\t\tprint this message\n"
+"\t-r\t\troman notation mode\n"
+msgstr ""
+
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:67
+#, c-format
+msgid "Guess a number from I to C\n"
+msgstr ""
+
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:69
+#, c-format
+msgid "Guess a number from 1 to 100\n"
+msgstr ""
+
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:74
+#, c-format
+msgid "Is your number greater than %s?\n"
+msgstr ""
+
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:76
+#, c-format
+msgid "Is your number greater than %d?\n"
+msgstr ""
+
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:77
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:79
+msgid "yes"
+msgstr ""
+
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:77
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:81
+msgid "no"
+msgstr ""
+
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:84
+#, c-format
+msgid "Understand you not. Try again!\n"
+msgstr ""
+
+#: /media/psf/Dropbox/Projects/UNEEX2020.LinuxDev/10_Documenting/oracle.c:87
+#, c-format
+msgid "Your number is %d\n"
+msgstr ""

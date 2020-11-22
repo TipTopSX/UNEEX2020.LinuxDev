@@ -1,0 +1,73 @@
+# Russian translations for UNEEX package.
+# Copyright (C) 2020 THE UNEEX'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the UNEEX package.
+# Parallels <parallels@parallels-parallels-virtual-platform>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: UNEEX 2020.LinuxDev\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-22 11:54+0300\n"
+"PO-Revision-Date: 2020-11-22 11:55+0300\n"
+"Last-Translator: Parallels <parallels@parallels-parallels-virtual-platform>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: oracle.c:69
+#, c-format
+msgid "Guess a number from 1 to 100\n"
+msgstr "Загадайте число от 1 до 100"
+
+#: oracle.c:67
+#, c-format
+msgid "Guess a number from I to C\n"
+msgstr "Загадайте число от I до C\n"
+
+#: oracle.c:76
+#, c-format
+msgid "Is your number greater than %d?\n"
+msgstr "Ваше число больше чем %d?\n"
+
+#: oracle.c:74
+#, c-format
+msgid "Is your number greater than %s?\n"
+msgstr "Ваше число больше чем %s?"
+
+#: oracle.c:7
+msgid ""
+"Program for guessing number in arabic or roman notation\n"
+"\n"
+"Usage: oracle [OPTIONS]\n"
+"\n"
+"\t--help\t\tprint this message\n"
+"\t-r\t\troman notation mode\n"
+msgstr ""
+"Программа отгадывает число в арабской или римской записи\n"
+"\n"
+"Использование: oracle [OPTIONS]\n"
+"\n"
+"\t--help\t\tвывести это сообщение\n"
+"\t-r\t\tримская запись чисел\n"
+
+#: oracle.c:84
+#, c-format
+msgid "Understand you not. Try again!\n"
+msgstr "Не понимать. Повторите!"
+
+#: oracle.c:87
+#, c-format
+msgid "Your number is %d\n"
+msgstr "Ваше число %d\n"
+
+#: oracle.c:77 oracle.c:81
+msgid "no"
+msgstr "нет"
+
+#: oracle.c:77 oracle.c:79
+msgid "yes"
+msgstr "да"
